@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="presentantionlayer.ActionANG" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/ActionANG.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3504" y="357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="start.MainClass" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/start/MainClass.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2734" y="1476"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="presentantionlayer" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2993" y="1423"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="bll.Clienti" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/Clienti.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2705" y="1115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="bll.Observable" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/Observable.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2020" y="347"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="bll.IDeliveryServiceProcessing" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/IDeliveryServiceProcessing.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2092" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="bll.Order" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/Order.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1913" y="1097"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="bll.MenuItem" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/MenuItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1207" y="573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="presentantionlayer.Clyent" project="PT2021_30223_Constantin_Senila_Assignment_4"
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Client.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2969" y="510"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="10" language="java" name="start" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/start" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3173" y="1423"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="11" language="java" name="presentantionlayer.Rap3" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Rap3.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3359" y="1512"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="presentantionlayer.Rap4" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Rap4.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3541" y="1458"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="bll.CompositeProduct" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/CompositeProduct.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1061" y="1061"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="presentantionlayer.Rap1" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Rap1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1848" y="420"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="dataLayer" project="PT2021_30223_Constantin_Senila_Assignment_4"
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/dataLayer" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="3698" y="1423"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="dataLayer.Serializator" project="PT2021_30223_Constantin_Senila_Assignment_4"
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/dataLayer/Serializator.java" binary="false"
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1426" y="348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="presentantionlayer.Rap2" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Rap2.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2198" y="411"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="bll.DeliveryService" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/DeliveryService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2268" y="1124"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="presentantionlayer.ActionADM" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/ActionADM.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3782" y="357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="presentantionlayer.ANGListener" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/ANGListener.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4064" y="357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="bll.BaseProduct" project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/bll/BaseProduct.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1388" y="1133"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="presentantionlayer.Administrator" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Administrator.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2440" y="600"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="presentantionlayer.ActionClient" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/ActionClient.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3225" y="357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="presentantionlayer.ClientConectat" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/ClientConectat.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2715" y="564"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="presentantionlayer.Employee" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Employee.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1624" y="402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="dataLayer.FileWriter" project="PT2021_30223_Constantin_Senila_Assignment_4"
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/dataLayer/FileWriter.java" binary="false"
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2424" y="1423"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="presentantionlayer.PagPrincipala" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/PagPrincipala.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3375" y="1070"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="presentantionlayer.Controller" 
+    project="PT2021_30223_Constantin_Senila_Assignment_4" 
+    file="/PT2021_30223_Constantin_Senila_Assignment_4/src/main/java/presentantionlayer/Controller.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3707" y="998"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="30">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="31" name="contr"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="34" name="client"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="38">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="39" name="dvs"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="42" name="pG"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="45" name="contr"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="48" name="contr"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="51" name="pG"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="54" name="pG"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="57" name="pG"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="60">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="61" name="pG"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="64" name="contr"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="67" name="dvs"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="70" name="dvs"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="73" name="fw"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="76" name="dvs"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="79" name="o"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="82" name="pG"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

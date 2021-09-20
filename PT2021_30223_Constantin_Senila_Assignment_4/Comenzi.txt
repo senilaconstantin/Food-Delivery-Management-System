@@ -1,0 +1,103 @@
+Comanda facuta de: Senila Coco
+La data de:
+19/05/2021
+La ora:
+12:47:00
+ -Fresh Corn Tortillas , Pret: 79.0 Ron
+      Pretul total este: 79.0 Ron
+
+
+Comanda facuta de: Senila Coco
+La data de:
+19/05/2021
+La ora:
+12:47:06
+ -Quick & Spicy Asian Pickles , Pret: 48.0 Ron
+      Pretul total este: 48.0 Ron
+
+
+Comanda facuta de: Senila Coco
+La data de:
+19/05/2021
+La ora:
+12:47:11
+ -Fresh Corn Tortillas , Pret: 79.0 Ron
+      Pretul total este: 79.0 Ron
+
+
+Comanda facuta de: Senila Coco
+La data de:
+19/05/2021
+La ora:
+12:47:20
+ -Quick & Spicy Asian Pickles , Pret: 48.0 Ron
+  -Barbecued Shrimp , Pret: 71.0 Ron
+  -Cauliflower-Leek Purée , Pret: 13.0 Ron
+      Pretul total este: 132.0 Ron
+
+
+Comanda facuta de: Senila Constantin
+La data de:
+19/05/2021
+La ora:
+12:47:38
+ -Fresh Corn Tortillas , Pret: 79.0 Ron
+      Pretul total este: 79.0 Ron
+
+
+Comanda facuta de: Senila Constantin
+La data de:
+19/05/2021
+La ora:
+12:47:43
+ -Quick & Spicy Asian Pickles , Pret: 48.0 Ron
+      Pretul total este: 48.0 Ron
+
+
+Comanda facuta de: Adam Andrei
+La data de:
+19/05/2021
+La ora:
+12:48:12
+ -Fresh Corn Tortillas , Pret: 79.0 Ron
+      Pretul total este: 79.0 Ron
+
+
+Comanda facuta de: Adam Andrei
+La data de:
+19/05/2021
+La ora:
+12:48:18
+ -Cauliflower-Leek Purée , Pret: 13.0 Ron
+      Pretul total este: 13.0 Ron
+
+
+Comanda facuta de: coco
+La data de:
+19/05/2021
+La ora:
+16:05:28
+ -Cilantro-Tomato Salsa , Pret: 32.0 Ron
+      Pretul total este: 32.0 Ron
+
+
+Comanda facuta de: Senila Constantin
+La data de:
+19/05/2021
+La ora:
+16:44:20
+ -Cauliflower-Leek Purée , Pret: 13.0 Ron
+      Pretul total este: 13.0 Ron
+
+
+Comanda facuta de: coco
+La data de:
+18/06/2021
+La ora:
+20:19:39
+ -Lemon-Almond Tuiles , Pret: 29.0 Ron
+  -Baguette Toasts , Pret: 96.0 Ron
+  -Sesame-Almond Macaroons , Pret: 44.0 Ron
+      Pretul total este: 169.0 Ron
+
+
